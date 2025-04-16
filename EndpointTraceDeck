@@ -1,0 +1,23 @@
+
+---
+
+### **2. main_EndpointTraceDeck**  
+**Description:**  
+Monitors batches of API endpoints and logs latency, response codes, and uptime patterns.
+
+#### **README.md**
+```markdown
+# EndpointTraceDeck - API Uptime & Latency Monitor
+
+EndpointTraceDeck keeps track of many endpoints and reports trends in status and speed, perfect for performance review.
+
+## Features
+- Batch API scanning  
+- CSV / JSON output  
+- Real-time latency tracking  
+
+## Usage
+```bash
+git clone https://github.com/your-username/main_EndpointTraceDeck.git
+cd main_EndpointTraceDeck
+python monitor.py
