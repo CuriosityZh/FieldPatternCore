@@ -1,0 +1,23 @@
+
+---
+
+### **3. main_LogPulseStream**  
+**Description:**  
+Scans logs to find repeating messages, critical keyword spikes, and burst anomalies.
+
+#### **README.md**
+```markdown
+# LogPulseStream - Pattern and Burst Log Analyzer
+
+LogPulseStream detects log frequency spikes and surfacing repeated or dangerous error flows in high-volume logs.
+
+## Features
+- Burst detection  
+- Custom keyword watchlist  
+- Timestamp grouping  
+
+## Usage
+```bash
+git clone https://github.com/your-username/main_LogPulseStream.git
+cd main_LogPulseStream
+python analyze.py logs/system.log
