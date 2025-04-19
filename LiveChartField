@@ -1,0 +1,23 @@
+
+---
+
+### **4. main_LiveChartField**  
+**Description:**  
+Visualizes streaming numerical data on a clean, real-time chart with refresh control.
+
+#### **README.md**
+```markdown
+# LiveChartField - Real-Time Stream Graph
+
+LiveChartField transforms metric streams into scrollable, responsive charts ideal for simulations or dashboards.
+
+## Features
+- Live updating line chart  
+- Adjustable scroll window  
+- Matplotlib-powered  
+
+## Usage
+```bash
+git clone https://github.com/your-username/main_LiveChartField.git
+cd main_LiveChartField
+python visualize.py
